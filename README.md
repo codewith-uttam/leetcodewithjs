@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/codewith-uttam/leetcodewithjs/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/codewith-uttam/leetcodewithjs/tree/master/0013-roman-to-integer) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/codewith-uttam/leetcodewithjs/tree/master/3345-smallest-divisible-digit-product-i) |
 ## String
 |  |
 | ------- |
@@ -52,4 +53,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/codewith-uttam/leetcodewithjs/tree/master/0002-add-two-numbers) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/codewith-uttam/leetcodewithjs/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
