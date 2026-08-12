@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/codewith-uttam/leetcodewithjs/tree/master/0013-roman-to-integer) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/codewith-uttam/leetcodewithjs/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/codewith-uttam/leetcodewithjs/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/codewith-uttam/leetcodewithjs/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Math
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/codewith-uttam/leetcodewithjs/tree/master/0014-longest-common-prefix) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/codewith-uttam/leetcodewithjs/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/codewith-uttam/leetcodewithjs/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Trie
 |  |
@@ -72,4 +74,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3310-remove-methods-from-project](https://github.com/codewith-uttam/leetcodewithjs/tree/master/3310-remove-methods-from-project) |
+## Sliding Window
+|  |
+| ------- |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/codewith-uttam/leetcodewithjs/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 <!---LeetCode Topics End-->
