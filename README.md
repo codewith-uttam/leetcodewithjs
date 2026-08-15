@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/codewith-uttam/leetcodewithjs/tree/master/0014-longest-common-prefix) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/codewith-uttam/leetcodewithjs/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/codewith-uttam/leetcodewithjs/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/codewith-uttam/leetcodewithjs/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Trie
 |  |
 | ------- |
@@ -78,4 +79,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/codewith-uttam/leetcodewithjs/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/codewith-uttam/leetcodewithjs/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 <!---LeetCode Topics End-->
