@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/codewith-uttam/leetcodewithjs/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/codewith-uttam/leetcodewithjs/tree/master/0013-roman-to-integer) |
+| [2029-stone-game-ix](https://github.com/codewith-uttam/leetcodewithjs/tree/master/2029-stone-game-ix) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/codewith-uttam/leetcodewithjs/tree/master/3345-smallest-divisible-digit-product-i) |
 ## String
 |  |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/codewith-uttam/leetcodewithjs/tree/master/0014-longest-common-prefix) |
+| [2029-stone-game-ix](https://github.com/codewith-uttam/leetcodewithjs/tree/master/2029-stone-game-ix) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/codewith-uttam/leetcodewithjs/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/codewith-uttam/leetcodewithjs/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/codewith-uttam/leetcodewithjs/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -41,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [2029-stone-game-ix](https://github.com/codewith-uttam/leetcodewithjs/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/codewith-uttam/leetcodewithjs/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Sorting
 |  |
@@ -50,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [2029-stone-game-ix](https://github.com/codewith-uttam/leetcodewithjs/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/codewith-uttam/leetcodewithjs/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Linked List
 |  |
@@ -83,4 +87,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/codewith-uttam/leetcodewithjs/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+## Minimax
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/codewith-uttam/leetcodewithjs/tree/master/2029-stone-game-ix) |
+## Game Theory
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/codewith-uttam/leetcodewithjs/tree/master/2029-stone-game-ix) |
+## Nim Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/codewith-uttam/leetcodewithjs/tree/master/2029-stone-game-ix) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/codewith-uttam/leetcodewithjs/tree/master/2029-stone-game-ix) |
 <!---LeetCode Topics End-->
